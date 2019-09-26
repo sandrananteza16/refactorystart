@@ -8,3 +8,4 @@ git config user.name
 git config user.email
 git status
 git add instructions.txt
+today
