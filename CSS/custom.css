@@ -1,0 +1,9 @@
+.table .thead-dark th {
+  color: #fff;
+  background-color: #e71c93;
+  border-color: pink;
+}
+
+    .row{
+        background-color: pink;
+    }
